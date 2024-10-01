@@ -23,8 +23,8 @@ fetch('./config.json').then(function(response) {
   return response.json();
 }).then(function(data) {
   radar_visualization({
-    repo_url: "https://github.com/zalando/tech-radar",
-    title: "Zalando Tech Radar",
+    repo_url: "https://github.com/hedinbil/hedin-tech-radar",
+    title: "HedinIT Tech Radar",
     date: data.date,
     quadrants: [
       { name: "Languages" },
@@ -33,7 +33,7 @@ fetch('./config.json').then(function(response) {
       { name: "Data Management" },
     ],
     rings: [
-      { name: "ADOPT", color: "#5ba300" },
+      { name: "RING 0", color: "#5ba300" },
       { name: "TRIAL", color: "#009eb0" },
       { name: "ASSESS", color: "#c7ba00" },
       { name: "HOLD", color: "#e09b96" }
