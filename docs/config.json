@@ -90,29 +90,28 @@
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "AWS DynamoDB",
+      "label": "Azure",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "AWS S3",
+      "label": "Azure Storage",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "Amazon ElastiCache",
-      "link": "https://engineering.zalando.com/tags/redis.html",
+      "label": "Azure Service Bus",
       "active": true,
       "moved": 1
     },
     {
       "quadrant": 2,
       "ring": 2,
-      "label": "Amazon MemoryDB",
+      "label": "Azure Kubernetes Service",
       "active": true,
       "moved": 0
     },
