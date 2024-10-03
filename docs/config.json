@@ -90,35 +90,28 @@
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "Azure",
+      "label": "Azure SQL",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "Azure Storage",
+      "label": "Azure PostGreSQL",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "Azure Service Bus",
+      "label": "SQL Server",
       "active": true,
       "moved": 1
     },
     {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "Azure Kubernetes Service",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
-      "label": "Amazon Redshift",
+      "label": "Azure Kubernetes Service",
       "active": true,
       "moved": 0
     },
@@ -134,20 +127,6 @@
       "ring": 3,
       "label": "Apache Cassandra",
       "link": "https://engineering.zalando.com/tags/cassandra.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Consul",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Druid",
       "active": true,
       "moved": 0
     },
