@@ -110,8 +110,8 @@
     },
     {
       "quadrant": 2,
-      "ring": 0,
-      "label": "Azure PostGreSQL",
+      "ring": 1,
+      "label": "Azure PostgreSQL",
       "active": true,
       "moved": 0
     },
@@ -121,6 +121,34 @@
       "label": "SQL Server",
       "active": true,
       "moved": 1
+    },
+    {
+      "quadrant": 4,
+      "ring": 0,
+      "label": ".net",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 4,
+      "ring": 0,
+      "label": "next.js",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 4,
+      "ring": 1,
+      "label": "python",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 4,
+      "ring": 0,
+      "label": "jsonnet",
+      "active": true,
+      "moved": 0
     }
   ]
 }
