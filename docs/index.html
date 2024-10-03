@@ -19,7 +19,10 @@
 <svg id="radar"></svg>
 
 <script>
-fetch('./config.json').then(function(response) {
+
+const configUrl = "https://raw.githubusercontent.com/hedinbil/hedin-tech-radar/refs/heads/main/docs/config.json";
+
+fetch(configUrl).then(function(response) {
   return response.json();
 }).then(function(data) {
   radar_visualization({
@@ -30,7 +33,7 @@ fetch('./config.json').then(function(response) {
       { name: "Languages" },
       { name: "Infrastructure" },
       { name: "Datastores" },
-      { name: "Data Management" },
+      { name: "Data Management2" },
     ],
     rings: [
       { name: "RING 0", color: "#5ba300" },

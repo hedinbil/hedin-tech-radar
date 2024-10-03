@@ -1,9 +1,9 @@
 {
-  "name": "zalando-tech-radar",
+  "name": "hedinit-tech-radar",
   "version": "2024.1.0",
   "description": "Visualizing our technology choices",
-  "homepage": "https://github.com/zalando/tech-radar#readme",
-  "repository": "https://github.com/zalando/tech-radar.git",
+  "homepage": "https://github.com/hedinbil/hedin-tech-radar#readme",
+  "repository": "https://github.com/hedinbil/hedin-tech-radar",
   "license": "MIT",
   "private": true,
   "directories": {
