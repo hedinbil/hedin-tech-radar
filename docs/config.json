@@ -2,6 +2,20 @@
   "date": "2024.06",
   "entries": [
     {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Azure Kubernetes Service",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Azure Service Bus",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 3,
       "ring": 1,
       "label": "AWS Athena",
@@ -107,13 +121,6 @@
       "label": "SQL Server",
       "active": true,
       "moved": 1
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "Azure Kubernetes Service",
-      "active": true,
-      "moved": 0
     }
   ]
 }
