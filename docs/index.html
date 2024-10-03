@@ -3,9 +3,9 @@
 
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<meta name="description" content="Zalando Tech Radar: a tool to visualize technology choices, inspire and support Engineering teams at Zalando to pick the best technologies for new projects">
+<meta name="description" content="Hedin IT Tech Radar: a tool to visualize technology choices, inspire and support Engineering teams at Zalando to pick the best technologies for new projects">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Zalando Tech Radar</title>
+<title>Hedin IT Tech Radar</title>
 <link rel="shortcut icon" href="https://edge.sitecorecloud.io/hedinitaban27a1-hedin8837-prod5c4b-4604/media/Project/Hedin/Retail/HedinAutomotive/Sweden/HedinAutomotiveSeSite/favicon.ico">
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -30,13 +30,13 @@ fetch(configUrl).then(function(response) {
     title: "HedinIT Tech Radar",
     date: data.date,
     quadrants: [
-      { name: "Languages" },
+      { name: "Languages and frameworks" },
       { name: "Infrastructure" },
       { name: "Datastores" },
       { name: "Architecture Patterns" },
     ],
     rings: [
-      { name: "MAYBE", color: "#5ba300" },
+      { name: "IN USE", color: "#5ba300" },
       { name: "EVALUATING", color: "#009eb0" },
       { name: "TRYING", color: "#c7ba00" },
       { name: "HOLD", color: "#e09b96" }
