@@ -9,70 +9,70 @@
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 1,
       "ring": 1,
       "label": "Azure Service Bus",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 2,
       "ring": 0,
       "label": "Azure SQL",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 2,
       "ring": 1,
       "label": "Azure PostgreSQL",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 2,
       "ring": 0,
       "label": "SQL Server",
       "active": true,
       "moved": 1
     },
     {
-      "quadrant": 2,
+      "quadrant": 3,
       "ring": 2,
       "label": "Event Sourcing",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
-      "ring": 2,
+      "quadrant": 3,
+      "ring": 0,
       "label": "Screaming Archicture",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
       "label": ".net",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
       "label": "next.js",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 1,
       "label": "python",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
       "label": "jsonnet",
       "active": true,
