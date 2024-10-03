@@ -123,6 +123,20 @@
       "moved": 1
     },
     {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Event Sourcing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Screaming Archicture",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 4,
       "ring": 0,
       "label": ".net",
