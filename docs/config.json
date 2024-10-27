@@ -52,8 +52,15 @@
     },
     {
       "quadrant": 1,
-      "ring": 1,
+      "ring": 0,
       "label": "Azure Service Bus",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "dbt",
       "active": true,
       "moved": 0
     },
