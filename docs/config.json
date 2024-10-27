@@ -17,8 +17,15 @@
     },
     {
       "quadrant": 0,
-      "ring": 1,
+      "ring": 0,
       "label": "python",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "spark.sql",
       "active": true,
       "moved": 0
     },
@@ -33,6 +40,13 @@
       "quadrant": 1,
       "ring": 0,
       "label": "Azure Kubernetes Service",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Fabric",
       "active": true,
       "moved": 0
     },
@@ -81,6 +95,27 @@
     {
       "quadrant": 2,
       "ring": 1,
+      "label": "Delta Live Tables",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Azure Databricks",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Azure Datafactory",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
       "label": "Azure PostgreSQL",
       "active": true,
       "moved": 0
@@ -103,6 +138,13 @@
       "quadrant": 3,
       "ring": 0,
       "label": "Screaming Archicture",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Medallion Archicture",
       "active": true,
       "moved": 0
     }
