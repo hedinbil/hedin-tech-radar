@@ -87,7 +87,7 @@
     },
     {
       "quadrant": 1,
-      "ring": 1,
+      "ring": 0,
       "label": "Datadog",
       "active": true,
       "moved": 0
@@ -132,7 +132,7 @@
       "ring": 0,
       "label": "SQL Server",
       "active": true,
-      "moved": 1
+      "moved": 0
     },
     {
       "quadrant": 3,
@@ -144,14 +144,21 @@
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Screaming Archicture",
+      "label": "Screaming Architecture",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Medallion Archicture",
+      "label": "Medallion Architecture",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "GitOps",
       "active": true,
       "moved": 0
     }
