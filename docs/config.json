@@ -213,7 +213,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 0,
+      "ring": 1,
       "label": "Elasticsearch",
       "active": true,
       "moved": 2
