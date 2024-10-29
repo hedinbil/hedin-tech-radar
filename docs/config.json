@@ -136,6 +136,13 @@
     },
     {
       "quadrant": 1,
+      "ring": 3,
+      "label": "New Relic",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 2,
       "label": "dbt",
       "active": true,
