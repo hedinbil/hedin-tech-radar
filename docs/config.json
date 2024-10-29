@@ -4,7 +4,7 @@
     {
       "quadrant": 0,
       "ring": 0,
-      "label": ".net",
+      "label": ".NET",
       "active": true,
       "moved": 0
     },
@@ -12,20 +12,6 @@
       "quadrant": 0,
       "ring": 0,
       "label": "ASP.NET",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "next.js",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "React",
       "active": true,
       "moved": 0
     },
@@ -40,6 +26,20 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Bicep",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "next.js",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "React",
       "active": true,
       "moved": 0
     },
@@ -213,10 +213,10 @@
     },
     {
       "quadrant": 2,
-      "ring": 1,
+      "ring": 0,
       "label": "Elasticsearch",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 2,
@@ -230,7 +230,7 @@
       "ring": 2,
       "label": "Event Sourcing",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 3,
