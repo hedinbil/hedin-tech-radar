@@ -11,7 +11,49 @@
     {
       "quadrant": 0,
       "ring": 0,
+      "label": "ASP.NET",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
       "label": "next.js",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "React",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Terraform",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Bicep",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Tailwind",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Entity Framework",
       "active": true,
       "moved": 0
     },
@@ -54,6 +96,34 @@
       "quadrant": 1,
       "ring": 0,
       "label": "Azure Service Bus",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Azure Event Grid",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Azure API Management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Argo CD",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Azure Monitor",
       "active": true,
       "moved": 0
     },
@@ -130,6 +200,27 @@
     {
       "quadrant": 2,
       "ring": 0,
+      "label": "Redis",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Azure Storage Account",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Elasticsearch",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
       "label": "SQL Server",
       "active": true,
       "moved": 0
@@ -159,6 +250,13 @@
       "quadrant": 3,
       "ring": 0,
       "label": "GitOps",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Monorepos",
       "active": true,
       "moved": 0
     }
