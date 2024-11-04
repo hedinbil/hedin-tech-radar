@@ -130,6 +130,13 @@
     {
       "quadrant": 1,
       "ring": 0,
+      "label": "Azure OpenAI",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
       "label": "Argo CD",
       "active": true,
       "moved": 0
