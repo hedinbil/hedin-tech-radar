@@ -205,16 +205,16 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Azure Databricks",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
-      "label": "Azure Datafactory",
+      "label": "Azure Data Factory",
       "active": true,
       "moved": 0
     },
