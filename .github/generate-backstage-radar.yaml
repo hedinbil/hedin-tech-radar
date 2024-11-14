@@ -1,0 +1,36 @@
+name: Generate Backstage Tech Radar
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'generated/**'
+  workflow_dispatch:
+
+jobs:
+  generate-tech-radar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt || true
+
+    - name: Run transformation script
+      run: python scripts/transform_tech_radar.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add generated/tech-radar-backstage.json
+        git commit -m "Update Backstage tech radar JSON"
+        git push || echo "No changes to commit"
