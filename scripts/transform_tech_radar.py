@@ -70,7 +70,7 @@ def transform_tech_radar(input_file, output_file):
 
 if __name__ == "__main__":
     # Input and output paths
-    input_path = "tech-radar.json"  # Input file
+    input_path = "docs/config.json"  # Input file
     output_path = "generated/tech-radar-backstage.json"  # Output file
 
     # Ensure the output directory exists
