@@ -1,0 +1,909 @@
+{
+  "entries": [
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for .NET"
+        }
+      ],
+      "key": ".net",
+      "id": ".net",
+      "title": ".NET",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for .NET.",
+      "links": [
+        {
+          "url": "https://example.com/.net",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for ASP.NET"
+        }
+      ],
+      "key": "asp.net",
+      "id": "asp.net",
+      "title": "ASP.NET",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for ASP.NET.",
+      "links": [
+        {
+          "url": "https://example.com/asp.net",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Terraform"
+        }
+      ],
+      "key": "terraform",
+      "id": "terraform",
+      "title": "Terraform",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for Terraform.",
+      "links": [
+        {
+          "url": "https://example.com/terraform",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Bicep"
+        }
+      ],
+      "key": "bicep",
+      "id": "bicep",
+      "title": "Bicep",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for Bicep.",
+      "links": [
+        {
+          "url": "https://example.com/bicep",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for next.js"
+        }
+      ],
+      "key": "next.js",
+      "id": "next.js",
+      "title": "next.js",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for next.js.",
+      "links": [
+        {
+          "url": "https://example.com/next.js",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for React"
+        }
+      ],
+      "key": "react",
+      "id": "react",
+      "title": "React",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for React.",
+      "links": [
+        {
+          "url": "https://example.com/react",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for GraphQL"
+        }
+      ],
+      "key": "graphql",
+      "id": "graphql",
+      "title": "GraphQL",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for GraphQL.",
+      "links": [
+        {
+          "url": "https://example.com/graphql",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Blazor"
+        }
+      ],
+      "key": "blazor",
+      "id": "blazor",
+      "title": "Blazor",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for Blazor.",
+      "links": [
+        {
+          "url": "https://example.com/blazor",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Tailwind"
+        }
+      ],
+      "key": "tailwind",
+      "id": "tailwind",
+      "title": "Tailwind",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for Tailwind.",
+      "links": [
+        {
+          "url": "https://example.com/tailwind",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Entity Framework"
+        }
+      ],
+      "key": "entity-framework",
+      "id": "entity-framework",
+      "title": "Entity Framework",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for Entity Framework.",
+      "links": [
+        {
+          "url": "https://example.com/entity framework",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for python"
+        }
+      ],
+      "key": "python",
+      "id": "python",
+      "title": "python",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for python.",
+      "links": [
+        {
+          "url": "https://example.com/python",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for spark.sql"
+        }
+      ],
+      "key": "spark.sql",
+      "id": "spark.sql",
+      "title": "spark.sql",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for spark.sql.",
+      "links": [
+        {
+          "url": "https://example.com/spark.sql",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for jsonnet"
+        }
+      ],
+      "key": "jsonnet",
+      "id": "jsonnet",
+      "title": "jsonnet",
+      "quadrant": "frameworks",
+      "description": "This is a placeholder description for jsonnet.",
+      "links": [
+        {
+          "url": "https://example.com/jsonnet",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Kubernetes Service"
+        }
+      ],
+      "key": "azure-kubernetes-service",
+      "id": "azure-kubernetes-service",
+      "title": "Azure Kubernetes Service",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure Kubernetes Service.",
+      "links": [
+        {
+          "url": "https://example.com/azure kubernetes service",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Fabric"
+        }
+      ],
+      "key": "fabric",
+      "id": "fabric",
+      "title": "Fabric",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Fabric.",
+      "links": [
+        {
+          "url": "https://example.com/fabric",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Service Bus"
+        }
+      ],
+      "key": "azure-service-bus",
+      "id": "azure-service-bus",
+      "title": "Azure Service Bus",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure Service Bus.",
+      "links": [
+        {
+          "url": "https://example.com/azure service bus",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Event Grid"
+        }
+      ],
+      "key": "azure-event-grid",
+      "id": "azure-event-grid",
+      "title": "Azure Event Grid",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure Event Grid.",
+      "links": [
+        {
+          "url": "https://example.com/azure event grid",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure API Management"
+        }
+      ],
+      "key": "azure-api-management",
+      "id": "azure-api-management",
+      "title": "Azure API Management",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure API Management.",
+      "links": [
+        {
+          "url": "https://example.com/azure api management",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure OpenAI"
+        }
+      ],
+      "key": "azure-openai",
+      "id": "azure-openai",
+      "title": "Azure OpenAI",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure OpenAI.",
+      "links": [
+        {
+          "url": "https://example.com/azure openai",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Argo CD"
+        }
+      ],
+      "key": "argo-cd",
+      "id": "argo-cd",
+      "title": "Argo CD",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Argo CD.",
+      "links": [
+        {
+          "url": "https://example.com/argo cd",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Monitor"
+        }
+      ],
+      "key": "azure-monitor",
+      "id": "azure-monitor",
+      "title": "Azure Monitor",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure Monitor.",
+      "links": [
+        {
+          "url": "https://example.com/azure monitor",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for New Relic"
+        }
+      ],
+      "key": "new-relic",
+      "id": "new-relic",
+      "title": "New Relic",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for New Relic.",
+      "links": [
+        {
+          "url": "https://example.com/new relic",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for dbt"
+        }
+      ],
+      "key": "dbt",
+      "id": "dbt",
+      "title": "dbt",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for dbt.",
+      "links": [
+        {
+          "url": "https://example.com/dbt",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Open Telemetry"
+        }
+      ],
+      "key": "open-telemetry",
+      "id": "open-telemetry",
+      "title": "Open Telemetry",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Open Telemetry.",
+      "links": [
+        {
+          "url": "https://example.com/open telemetry",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for GitHub"
+        }
+      ],
+      "key": "github",
+      "id": "github",
+      "title": "GitHub",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for GitHub.",
+      "links": [
+        {
+          "url": "https://example.com/github",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Devops"
+        }
+      ],
+      "key": "azure-devops",
+      "id": "azure-devops",
+      "title": "Azure Devops",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure Devops.",
+      "links": [
+        {
+          "url": "https://example.com/azure devops",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Datadog"
+        }
+      ],
+      "key": "datadog",
+      "id": "datadog",
+      "title": "Datadog",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Datadog.",
+      "links": [
+        {
+          "url": "https://example.com/datadog",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure SQL"
+        }
+      ],
+      "key": "azure-sql",
+      "id": "azure-sql",
+      "title": "Azure SQL",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Azure SQL.",
+      "links": [
+        {
+          "url": "https://example.com/azure sql",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Delta Live Tables"
+        }
+      ],
+      "key": "delta-live-tables",
+      "id": "delta-live-tables",
+      "title": "Delta Live Tables",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Delta Live Tables.",
+      "links": [
+        {
+          "url": "https://example.com/delta live tables",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Databricks"
+        }
+      ],
+      "key": "azure-databricks",
+      "id": "azure-databricks",
+      "title": "Azure Databricks",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure Databricks.",
+      "links": [
+        {
+          "url": "https://example.com/azure databricks",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Data Factory"
+        }
+      ],
+      "key": "azure-data-factory",
+      "id": "azure-data-factory",
+      "title": "Azure Data Factory",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Azure Data Factory.",
+      "links": [
+        {
+          "url": "https://example.com/azure data factory",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure PostgreSQL"
+        }
+      ],
+      "key": "azure-postgresql",
+      "id": "azure-postgresql",
+      "title": "Azure PostgreSQL",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Azure PostgreSQL.",
+      "links": [
+        {
+          "url": "https://example.com/azure postgresql",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Redis"
+        }
+      ],
+      "key": "redis",
+      "id": "redis",
+      "title": "Redis",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Redis.",
+      "links": [
+        {
+          "url": "https://example.com/redis",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Azure Storage Account"
+        }
+      ],
+      "key": "azure-storage-account",
+      "id": "azure-storage-account",
+      "title": "Azure Storage Account",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Azure Storage Account.",
+      "links": [
+        {
+          "url": "https://example.com/azure storage account",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 2,
+          "ringId": "trial",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Elasticsearch"
+        }
+      ],
+      "key": "elasticsearch",
+      "id": "elasticsearch",
+      "title": "Elasticsearch",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Elasticsearch.",
+      "links": [
+        {
+          "url": "https://example.com/elasticsearch",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for SQL Server"
+        }
+      ],
+      "key": "sql-server",
+      "id": "sql-server",
+      "title": "SQL Server",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for SQL Server.",
+      "links": [
+        {
+          "url": "https://example.com/sql server",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 2,
+          "ringId": "assess",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Event Sourcing"
+        }
+      ],
+      "key": "event-sourcing",
+      "id": "event-sourcing",
+      "title": "Event Sourcing",
+      "quadrant": "process",
+      "description": "This is a placeholder description for Event Sourcing.",
+      "links": [
+        {
+          "url": "https://example.com/event sourcing",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Screaming Architecture"
+        }
+      ],
+      "key": "screaming-architecture",
+      "id": "screaming-architecture",
+      "title": "Screaming Architecture",
+      "quadrant": "process",
+      "description": "This is a placeholder description for Screaming Architecture.",
+      "links": [
+        {
+          "url": "https://example.com/screaming architecture",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Medallion Architecture"
+        }
+      ],
+      "key": "medallion-architecture",
+      "id": "medallion-architecture",
+      "title": "Medallion Architecture",
+      "quadrant": "process",
+      "description": "This is a placeholder description for Medallion Architecture.",
+      "links": [
+        {
+          "url": "https://example.com/medallion architecture",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for GitOps"
+        }
+      ],
+      "key": "gitops",
+      "id": "gitops",
+      "title": "GitOps",
+      "quadrant": "process",
+      "description": "This is a placeholder description for GitOps.",
+      "links": [
+        {
+          "url": "https://example.com/gitops",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-11-14T20:36:52.000Z",
+          "description": "Auto-generated entry for Monorepos"
+        }
+      ],
+      "key": "monorepos",
+      "id": "monorepos",
+      "title": "Monorepos",
+      "quadrant": "process",
+      "description": "This is a placeholder description for Monorepos.",
+      "links": [
+        {
+          "url": "https://example.com/monorepos",
+          "title": "Learn more"
+        }
+      ]
+    }
+  ],
+  "quadrants": [
+    {
+      "id": "frameworks",
+      "name": "Frameworks"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "languages",
+      "name": "Languages"
+    },
+    {
+      "id": "process",
+      "name": "Process"
+    }
+  ],
+  "rings": [
+    {
+      "id": "adopt",
+      "name": "ADOPT",
+      "color": "#5BA300",
+      "description": "Recommended technologies."
+    },
+    {
+      "id": "trial",
+      "name": "TRIAL",
+      "color": "#009EB0",
+      "description": "Promising technologies to evaluate."
+    },
+    {
+      "id": "assess",
+      "name": "ASSESS",
+      "color": "#C7BA00",
+      "description": "Technologies to watch and evaluate."
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
+      "color": "#E09B96",
+      "description": "Not recommended for use."
+    }
+  ]
+}
