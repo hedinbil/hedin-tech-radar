@@ -24,10 +24,15 @@ def transform_tech_radar(input_file, output_file):
     # Transform entries
     entries = []
     for entry in data['entries']:
+        # Replace "moved" value of 2 with 0
+        moved = entry["moved"]
+        if moved == 2:
+            moved = 0
+
         transformed_entry = {
             "timeline": [
                 {
-                    "moved": entry["moved"],
+                    "moved": moved,
                     "ringId": ring_map.get(entry["ring"], "unknown"),
                     "date": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S.000Z"),
                     "description": f"Auto-generated entry for {entry['label']}"
