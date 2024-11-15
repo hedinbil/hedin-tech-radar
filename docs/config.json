@@ -2,11 +2,39 @@
   "date": "2024.06",
   "entries": [
     {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Event Driven Architecture",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "High Cohesion Low Coupling",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "High Cohesion Low Coupling",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 0,
       "ring": 0,
       "label": ".NET",
       "active": true,
       "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "AutoMapper",
+      "active": true,
+      "moved": -1
     },
     {
       "quadrant": 0,
@@ -93,9 +121,23 @@
       "moved": 0
     },
     {
+      "quadrant": 2,
+      "ring": 3,
+      "label": "AWS",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 1,
       "ring": 0,
       "label": "Azure Kubernetes Service",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Azure Key Vault",
       "active": true,
       "moved": 0
     },
@@ -191,14 +233,14 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Azure SQL",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "Delta Live Tables",
       "active": true,
@@ -219,35 +261,35 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "Azure PostgreSQL",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Redis",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Azure Storage Account",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "Elasticsearch",
       "active": true,
       "moved": 2
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "SQL Server",
       "active": true,
@@ -270,7 +312,42 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "CQRS",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Vertical Slice Architecture",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "Medallion Architecture",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Entity Services",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Clean Architecture",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Active record",
       "active": true,
       "moved": 0
     },
