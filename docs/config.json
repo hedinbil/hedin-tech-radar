@@ -18,7 +18,14 @@
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "High Cohesion Low Coupling",
+      "label": "No process up front",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 3,
+      "label": "SAFe",
       "active": true,
       "moved": 0
     },
