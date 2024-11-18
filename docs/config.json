@@ -136,6 +136,13 @@
     },
     {
       "quadrant": 1,
+      "ring": 2,
+      "label": "Backstage",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 1,
       "ring": 0,
       "label": "Azure Kubernetes Service",
       "active": true,
