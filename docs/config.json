@@ -136,6 +136,13 @@
     },
     {
       "quadrant": 1,
+      "ring": 3,
+      "label": "GCP",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 2,
       "label": "Backstage",
       "active": true,
