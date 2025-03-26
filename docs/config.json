@@ -45,6 +45,20 @@
     },
     {
       "quadrant": 2,
+      "ring": 0,
+      "label": "Request For Comments (RFCs)",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Architecture Decision Records (ADRs)",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 3,
       "label": "SAFe",
       "active": true,
