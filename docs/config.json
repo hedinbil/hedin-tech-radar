@@ -24,6 +24,27 @@
     },
     {
       "quadrant": 2,
+      "ring": 0,
+      "label": "Trunk based development",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Test driven development",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Team driven development",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 3,
       "label": "SAFe",
       "active": true,
