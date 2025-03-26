@@ -5,7 +5,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Event Driven Architecture"
         }
       ],
@@ -26,7 +26,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for High Cohesion Low Coupling"
         }
       ],
@@ -47,7 +47,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for No process up front"
         }
       ],
@@ -68,7 +68,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Trunk based development"
         }
       ],
@@ -89,7 +89,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Test driven development"
         }
       ],
@@ -110,7 +110,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Team driven development"
         }
       ],
@@ -130,8 +130,50 @@
       "timeline": [
         {
           "moved": 0,
+          "ringId": "adopt",
+          "date": "2025-03-26T11:54:12.000Z",
+          "description": "Auto-generated entry for Request For Comments (RFCs)"
+        }
+      ],
+      "key": "request-for-comments-(rfcs)",
+      "id": "request-for-comments-(rfcs)",
+      "title": "Request For Comments (RFCs)",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Request For Comments (RFCs).",
+      "links": [
+        {
+          "url": "https://example.com/request for comments (rfcs)",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2025-03-26T11:54:12.000Z",
+          "description": "Auto-generated entry for Architecture Decision Records (ADRs)"
+        }
+      ],
+      "key": "architecture-decision-records-(adrs)",
+      "id": "architecture-decision-records-(adrs)",
+      "title": "Architecture Decision Records (ADRs)",
+      "quadrant": "languages",
+      "description": "This is a placeholder description for Architecture Decision Records (ADRs).",
+      "links": [
+        {
+          "url": "https://example.com/architecture decision records (adrs)",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for SAFe"
         }
       ],
@@ -152,7 +194,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for .NET"
         }
       ],
@@ -173,7 +215,7 @@
         {
           "moved": -1,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for AutoMapper"
         }
       ],
@@ -194,7 +236,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for ASP.NET"
         }
       ],
@@ -215,7 +257,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Terraform"
         }
       ],
@@ -236,7 +278,7 @@
         {
           "moved": 0,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Bicep"
         }
       ],
@@ -257,7 +299,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for next.js"
         }
       ],
@@ -278,7 +320,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for React"
         }
       ],
@@ -299,7 +341,7 @@
         {
           "moved": 0,
           "ringId": "trial",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for GraphQL"
         }
       ],
@@ -320,7 +362,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Blazor"
         }
       ],
@@ -341,7 +383,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Tailwind"
         }
       ],
@@ -362,7 +404,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Entity Framework"
         }
       ],
@@ -383,7 +425,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for python"
         }
       ],
@@ -404,7 +446,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for spark.sql"
         }
       ],
@@ -425,7 +467,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for jsonnet"
         }
       ],
@@ -446,7 +488,7 @@
         {
           "moved": 0,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for AWS"
         }
       ],
@@ -467,7 +509,7 @@
         {
           "moved": 0,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for GCP"
         }
       ],
@@ -488,7 +530,7 @@
         {
           "moved": 0,
           "ringId": "assess",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Backstage"
         }
       ],
@@ -509,7 +551,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Kubernetes Service"
         }
       ],
@@ -530,7 +572,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Key Vault"
         }
       ],
@@ -551,7 +593,7 @@
         {
           "moved": 0,
           "ringId": "assess",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Fabric"
         }
       ],
@@ -572,7 +614,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Service Bus"
         }
       ],
@@ -593,7 +635,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Event Grid"
         }
       ],
@@ -614,7 +656,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure API Management"
         }
       ],
@@ -635,7 +677,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure OpenAI"
         }
       ],
@@ -656,7 +698,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Argo CD"
         }
       ],
@@ -677,7 +719,7 @@
         {
           "moved": 0,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Monitor"
         }
       ],
@@ -698,7 +740,7 @@
         {
           "moved": 0,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for New Relic"
         }
       ],
@@ -719,7 +761,7 @@
         {
           "moved": 0,
           "ringId": "assess",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for dbt"
         }
       ],
@@ -740,7 +782,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Open Telemetry"
         }
       ],
@@ -761,7 +803,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for GitHub"
         }
       ],
@@ -782,7 +824,7 @@
         {
           "moved": 0,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Devops"
         }
       ],
@@ -803,7 +845,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Datadog"
         }
       ],
@@ -824,7 +866,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure SQL"
         }
       ],
@@ -845,7 +887,7 @@
         {
           "moved": 0,
           "ringId": "trial",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Delta Live Tables"
         }
       ],
@@ -866,7 +908,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Databricks"
         }
       ],
@@ -887,7 +929,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Data Factory"
         }
       ],
@@ -908,7 +950,7 @@
         {
           "moved": 0,
           "ringId": "trial",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure PostgreSQL"
         }
       ],
@@ -929,7 +971,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Redis"
         }
       ],
@@ -950,7 +992,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Azure Storage Account"
         }
       ],
@@ -971,7 +1013,7 @@
         {
           "moved": 0,
           "ringId": "trial",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Elasticsearch"
         }
       ],
@@ -992,7 +1034,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for SQL Server"
         }
       ],
@@ -1013,7 +1055,7 @@
         {
           "moved": 0,
           "ringId": "assess",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Event Sourcing"
         }
       ],
@@ -1034,7 +1076,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Screaming Architecture"
         }
       ],
@@ -1055,7 +1097,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for CQRS"
         }
       ],
@@ -1076,7 +1118,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Vertical Slice Architecture"
         }
       ],
@@ -1097,7 +1139,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Medallion Architecture"
         }
       ],
@@ -1118,7 +1160,7 @@
         {
           "moved": -1,
           "ringId": "hold",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Entity Services"
         }
       ],
@@ -1139,7 +1181,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Clean Architecture"
         }
       ],
@@ -1160,7 +1202,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Active record"
         }
       ],
@@ -1181,7 +1223,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for GitOps"
         }
       ],
@@ -1202,7 +1244,7 @@
         {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2025-03-26T11:53:36.000Z",
+          "date": "2025-03-26T11:54:12.000Z",
           "description": "Auto-generated entry for Monorepos"
         }
       ],
