@@ -1098,6 +1098,27 @@
           "moved": 0,
           "ringId": "assess",
           "date": "2025-03-26T12:26:39.000Z",
+          "description": "Auto-generated entry for PowerShell Universal"
+        }
+      ],
+      "key": "powershell-universal",
+      "id": "powershell-universal",
+      "title": "PowerShell Universal",
+      "quadrant": "infrastructure",
+      "description": "PowerShell Universal Script Management, using GitHub as master for code and version control",
+      "links": [
+        {
+          "url": "https://psuniversal.hedinit.com",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2025-03-26T12:26:39.000Z",
           "description": "Auto-generated entry for Event Sourcing"
         }
       ],
