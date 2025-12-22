@@ -1140,6 +1140,27 @@
           "moved": 0,
           "ringId": "assess",
           "date": "2025-03-26T12:26:39.000Z",
+          "description": "Auto-generated entry for Wazuh SIEM"
+        }
+      ],
+      "key": "wazuh-siem",
+      "id": "wazuh-siem",
+      "title": "Wazuh SIEM",
+      "quadrant": "infrastructure",
+      "description": "This is a placeholder description for Wazuh SIEM.",
+      "links": [
+        {
+          "url": "https://example.com/wazuh siem",
+          "title": "Learn more"
+        }
+      ]
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2025-03-26T12:26:39.000Z",
           "description": "Auto-generated entry for Event Sourcing"
         }
       ],
