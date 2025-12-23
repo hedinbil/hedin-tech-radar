@@ -1098,69 +1098,6 @@
           "moved": 0,
           "ringId": "assess",
           "date": "2025-03-26T12:26:39.000Z",
-          "description": "Auto-generated entry for PowerShell Universal"
-        }
-      ],
-      "key": "powershell-universal",
-      "id": "powershell-universal",
-      "title": "PowerShell Universal",
-      "quadrant": "infrastructure",
-      "description": "PowerShell Universal Script Management, using GitHub as master for code and version control",
-      "links": [
-        {
-          "url": "https://psuniversal.hedinit.com",
-          "title": "Learn more"
-        }
-      ]
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "trial",
-          "date": "2025-03-26T12:26:39.000Z",
-          "description": "Auto-generated entry for Automatic Security Threat Feeds"
-        }
-      ],
-      "key": "automatic-security-threat-feeds",
-      "id": "automatic-security-threat-feeds",
-      "title": "Automatic Security Threat Feeds",
-      "quadrant": "infrastructure",
-      "description": "This is a placeholder description for Automatic Security Threat Feeds.",
-      "links": [
-        {
-          "url": "https://pan-edl.operations-prod.external.hedinit.io/",
-          "title": "Pan-EDL"
-        }
-      ]
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "assess",
-          "date": "2025-03-26T12:26:39.000Z",
-          "description": "Auto-generated entry for Wazuh SIEM"
-        }
-      ],
-      "key": "wazuh-siem",
-      "id": "wazuh-siem",
-      "title": "Wazuh SIEM",
-      "quadrant": "infrastructure",
-      "description": "This is a placeholder description for Wazuh SIEM.",
-      "links": [
-        {
-          "url": "https://example.com/wazuh siem",
-          "title": "Learn more"
-        }
-      ]
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "assess",
-          "date": "2025-03-26T12:26:39.000Z",
           "description": "Auto-generated entry for Event Sourcing"
         }
       ],
