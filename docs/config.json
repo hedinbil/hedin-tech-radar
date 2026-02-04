@@ -290,6 +290,34 @@
     },
     {
       "quadrant": 1,
+      "ring": 0,
+      "label": "Cursor",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Claude Code",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "ChatGPT Codex",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "GitHub CoPilot",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 3,
       "label": "Azure Devops",
       "active": true,
